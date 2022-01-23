@@ -1,0 +1,5 @@
+train: ball_data/train/images
+val: ball_data/valid/images
+
+nc: 2
+names: ['blue', 'red']

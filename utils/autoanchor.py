@@ -3,6 +3,9 @@
 Auto-anchor utils
 """
 
+import sys
+sys.path.append("f:/0Desk/yolo/yolov5")
+
 import random
 
 import numpy as np
